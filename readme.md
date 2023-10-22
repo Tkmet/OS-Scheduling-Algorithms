@@ -1,6 +1,6 @@
 # OS Scheduling Algorithms
 
-Authors: Tomas Kmet, Meet Bhatt, Youssef Hamed
+Authors: Tomas Kmet, Meet Bhatt, Youssef Hamed</br>
 University of Calgary Project
 
 ## Contents
